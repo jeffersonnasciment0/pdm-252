@@ -1,5 +1,5 @@
 // TODO(CodelabUser): Create an OAuth App
-const githubClientId = 'Ov23liybYUjl5ZJiHPpy';
+const githubClientId = '';
 const githubClientSecret = '';
 
 // OAuth scopes for repository and user information
